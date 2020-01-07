@@ -1,5 +1,5 @@
 {
-  "name": "darkcs/yii2-infinite-scroll",
+  "name": "androphin/yii2-infinite-scroll",
   "description": "Link pager with infinite scroll support.",
   "type": "yii2-extension",
   "keywords": [
@@ -14,8 +14,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Yuri Plaksunov",
-      "email": "darkcs2@gmail.com"
+      "name": "Andro Phin",
+      "email": "androphin@ymail.com"
     }
   ],
   "require": {
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "darkcs\\infinitescroll\\": ""
+      "androphin\\infinitescroll\\": ""
     }
   }
 }
